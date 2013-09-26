@@ -1,4 +1,4 @@
-Lorem ipsum dolor sit amen {$}, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet {$}, consectetur adipiscing elit.
 Etiam faucibus enim in porttitor tincidunt. Curabitur
 vitae ligula sed turpis mollis consectetur eget a ante.
 Donec magna metus, lobortis et imperdiet sed, congue eu
@@ -7,8 +7,6 @@ eleifend felis vel nibh sagittis sagittis. Aliquam arcu
 ligula, ultrices ut libero in, porta venenatis dolor.
 Class aptent taciti sociosqu ad litora torquent per conubia
 nostra, per inceptos {$} himenaeos.
-
-Lorem ipsum.
 
 Integer risus quam, consectetur eu nisi ac, eleifend eleifend
 risus. Mauris lacus ipsum, {$} sollicitudin ut pharetra non,
