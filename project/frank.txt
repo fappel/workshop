@@ -1,31 +1,29 @@
-Lorem ipsum dolor sit amet {$}, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet John Doe, consectetur adipiscing elit.
 Etiam faucibus enim in porttitor tincidunt. Curabitur
 vitae ligula sed turpis mollis consectetur eget a ante.
 Donec magna metus, lobortis et imperdiet sed, congue eu
-leo. Donec sodales neque {$} ut semper ultricies. Vestibulum
+leo. Donec sodales neque John Doe ut semper ultricies. Vestibulum
 eleifend felis vel nibh sagittis sagittis. Aliquam arcu
 ligula, ultrices ut libero in, porta venenatis dolor.
 Class aptent taciti sociosqu ad litora torquent per conubia
-nostra, per inceptos {$} himenaeos.
-
-Lorem ipsum.
+nostra, per inceptos John Doe himenaeos.
 
 Integer risus quam, consectetur eu nisi ac, eleifend eleifend
-risus. Mauris lacus ipsum, {$} sollicitudin ut pharetra non,
+risus. Mauris lacus ipsum, John Doe sollicitudin ut pharetra non,
 interdum id nunc. Vivamus hendrerit mauris eget felis auctor
 volutpat. Suspendisse eu facilisis lectus. Proin ornare nulla
-libero, sit amet rutrum dolor {$} imperdiet ac. Sed nisl lacus,
+libero, sit amet rutrum dolor John Doe imperdiet ac. Sed nisl lacus,
 pulvinar eu nulla at, vulputate luctus diam. Cras dictum 
 bibendum lectus eu lobortis. Donec posuere est commodo
 elementum porta. Integer faucibus et ipsum sed pretium. Nam
-sit amet purus mauris. Sed {$} luctus turpis dui, id suscipit
+sit amet purus mauris. Sed John Doe luctus turpis dui, id suscipit
 augue sollicitudin at. Sed elementum convallis congue.
 
 Phasellus enim est, auctor a sagittis luctus, aliquam id nibh.
-Nulla tincidunt {$} venenatis eros id sollicitudin. Sed laoreet
+Nulla tincidunt John Doe venenatis eros id sollicitudin. Sed laoreet
 sodales dui vitae eleifend. Lorem ipsum dolor sit amet,
-consectetur adipiscing elit. {$}Sed ac libero sed urna rhoncus
+consectetur adipiscing elit. John DoeSed ac libero sed urna rhoncus
 tristique non id massa. Nunc eu ipsum et est feugiat eleifend.
 Nam a lorem eros. Ut vestibulum nisl nec facilisis laoreet.
 Ut vitae tempus ante, nec dictum augue. Maecenas sit amet sem
-condimentum, blandit orci et, {$} mollis erat.
+condimentum, blandit orci et, John Doe mollis erat.
