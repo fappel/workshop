@@ -11,7 +11,7 @@ nostra, per inceptos {$} himenaeos.
 Lorem ipsum.
 
 Integer risus quam, consectetur eu nisi ac, eleifend eleifend
-risus. Mauris lacus ipsum, {$} sollicitudin ut pharetra non,
+risus. Mauris lacus ipsum, {samy} sollicitudin ut pharetra non,
 interdum id nunc. Vivamus hendrerit mauris eget felis auctor
 volutpat. Suspendisse eu facilisis lectus. Proin ornare nulla
 libero, sit amet rutrum dolor {$} imperdiet ac. Sed nisl lacus,
