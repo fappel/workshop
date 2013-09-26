@@ -1,5 +1,3 @@
-some other change
-
 Lorem ipsum dolor sit amet John Doe, consectetur adipiscing elit.
 Etiam faucibus enim in porttitor tincidunt. Curabitur
 vitae ligula sed turpis mollis consectetur eget a ante.
@@ -9,6 +7,8 @@ eleifend felis vel nibh sagittis sagittis. Aliquam arcu
 ligula, ultrices ut libero in, porta venenatis dolor.
 Class aptent taciti sociosqu ad litora torquent per conubia
 nostra, per inceptos John Doe himenaeos.
+
+Lorem ipsum.
 
 Integer risus quam, consectetur eu nisi ac, eleifend eleifend
 risus. Mauris lacus ipsum, John Doe sollicitudin ut pharetra non,
@@ -29,3 +29,5 @@ tristique non id massa. Nunc eu ipsum et est feugiat eleifend.
 Nam a lorem eros. Ut vestibulum nisl nec facilisis laoreet.
 Ut vitae tempus ante, nec dictum augue. Maecenas sit amet sem
 condimentum, blandit orci et, John Doe mollis erat.
+
+Lorem ipsum, dammit!
