@@ -26,4 +26,4 @@ consectetur adipiscing elit. {$}Sed ac libero sed urna rhoncus
 tristique non id massa. Nunc eu ipsum et est feugiat eleifend.
 Nam a lorem eros. Ut vestibulum nisl nec facilisis laoreet.
 Ut vitae tempus ante, nec dictum augue. Maecenas sit amet sem
-condimentum, blandit orci et, {$} mollis erat. 
+condimentum, blandit orci et, {$} mollis erat.
