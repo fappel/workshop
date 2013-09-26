@@ -8,7 +8,7 @@ ligula, ultrices ut libero in, porta venenatis dolor.
 Class aptent taciti sociosqu ad litora torquent per conubia
 nostra, per inceptos {$} himenaeos.
 
-Integer risus quam, consectetur eu nisi ac, eleifend eleifend
+Float risus quam, consectetur eu nisi ac, eleifend eleifend
 risus. Mauris lacus ipsum, {$} sollicitudin ut pharetra non,
 interdum id nunc. Vivamus hendrerit mauris eget felis auctor
 volutpat. Suspendisse eu facilisis lectus. Proin ornare nulla
@@ -27,6 +27,3 @@ tristique non id massa. Nunc eu ipsum et est feugiat eleifend.
 Nam a lorem eros. Ut vestibulum nisl nec facilisis laoreet.
 Ut vitae tempus ante, nec dictum augue. Maecenas sit amet sem
 condimentum, blandit orci et, {$} mollis erat.
-
-Hallo
-
