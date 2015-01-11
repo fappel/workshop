@@ -1,4 +1,4 @@
 workshop
 ========
 
-Git+ Workshop Repository
+Git+ Workshop & Training Repository
